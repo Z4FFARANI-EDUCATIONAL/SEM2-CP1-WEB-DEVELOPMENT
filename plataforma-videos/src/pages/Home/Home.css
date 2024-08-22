@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+h1 {
+    color: #333333;
+    font-size: 4.5rem;
+    font-family: Roboto mono;
+    margin: 30px 0px 30px 0px;
+}
+
+h2 {
+    user-select: none;
+    color: white;
+    font-size: 4.5rem;
+    font-family: Roboto mono;
+    margin: 0px 0px 15px 0px;
+    text-shadow: black 3px 3px;
+}
+
+h3 {
+    color: #333333;
+    font-size: 2rem;
+    font-family: Roboto mono;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    padding: 0px 100px 0px 100px;
+}
+
+.content div {
+    width: 50%;
+}
+
+.mainimage {
+    width: 750px;
+    cursor: pointer;
+}
+
+.subtitle {
+    color: #333333;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5rem;
+    margin: 0px 0px 30px 0px;
+    width: 60%;
+}
+
+.boxdescription {
+    color: #333333;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.2rem;
+    margin: 0px 0px 30px 0px;
+    width: 90%;
+}
+
+.start {
+    cursor: pointer;
+    color: white;
+    padding: 20px 50px 20px 50px;
+    background-color: #333333;
+    border: none;
+    border-radius: 50px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5rem;
+    transition: 200ms ease;
+}
+
+.start:hover {
+    background-color: black;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+    padding: 0px 100px 0px 100px;
+}
+
+.cardelements {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardimage {
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}
