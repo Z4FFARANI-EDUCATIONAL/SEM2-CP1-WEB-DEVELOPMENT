@@ -45,6 +45,7 @@ Acesse a aplicação em **http://localhost:5173**
 <br>
 
 # OBSERVAÇÕES
+- É necessária a instalação do Node.js para que o programa seja rodado.
 - Certifique-se de que o arquivo ``index.html`` está corretamente configurado para incluir os códigos de ``main.jsx``.
 - Os estilos são aplicados através de arquivos CSS e Styled-Components. Assegure-se de que todos os arquivos de estilo estão corretamente importados.
 - O roteamento é gerenciado pelo react-router-dom, então adicione novas rotas no arquivo ``main.jsx`` se necessário.
