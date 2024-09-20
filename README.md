@@ -26,7 +26,7 @@ No terminal, instalar o pacote de módulos do Node.js com ``npm install``.
 
 Iniciar o servidor de desenvolvimento com ``npm run dev``.
 
-Acessar o site no endereço **http://localhost:5173**
+Acessar o site no endereço **http://localhost:5173**.
 
 <br>
 
