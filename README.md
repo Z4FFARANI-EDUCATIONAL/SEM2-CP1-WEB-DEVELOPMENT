@@ -18,11 +18,15 @@ O projeto Plataforma-Vídeos é uma aplicação web desenvolvida para facilitar 
 <br>
 
 # INSTRUÇÕES
-Instale as dependências no terminal com ``npm install`` para instalar o pacote de módulos do Node.js.
+No terminal, clonar o repositório copiando o endereço ``https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CP1-WEB-DEVELOPMENT.git``.
 
-Inicie o servidor de desenvolvimento com ``npm run dev``.
+No terminal, navegar até a pasta do projeto com ``cd plataforma-videos``.
 
-Acesse a aplicação em **http://localhost:5173**
+No terminal, instalar o pacote de módulos do Node.js com ``npm install``.
+
+Iniciar o servidor de desenvolvimento com ``npm run dev``.
+
+Acessar o site no endereço **http://localhost:5173**
 
 <br>
 
