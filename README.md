@@ -24,7 +24,7 @@ Abrir a pasta criada em uma IDE de preferência.
 
 No terminal da IDE, clonar o repositório com `git clone https://github.com/ENDEREÇO-DO-REPOSITÓRIO-REMOTO.git`
 
-No terminal da IDE, navegar até a pasta do projeto com ``cd plataforma-videos``.
+No terminal da IDE, navegar até a pasta do projeto com ``cd SEM2-CP1-WEB-DEVELOPMENT/plataforma-videos``.
 
 No terminal da IDE, instalar o pacote de módulos do Node.js com ``npm install``.
 
