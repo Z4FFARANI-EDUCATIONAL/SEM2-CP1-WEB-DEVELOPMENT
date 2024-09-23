@@ -18,11 +18,15 @@ O projeto Plataforma-Vídeos é uma aplicação web desenvolvida para facilitar 
 <br>
 
 # INSTRUÇÕES
-No terminal, clonar o repositório copiando o endereço ``https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CP1-WEB-DEVELOPMENT.git``.
+Criar uma pasta no computador para ser o repositório local.
 
-No terminal, navegar até a pasta do projeto com ``cd plataforma-videos``.
+Abrir a pasta criada em uma IDE de preferência.
 
-No terminal, instalar o pacote de módulos do Node.js com ``npm install``.
+No terminal da IDE, clonar o repositório com `git clone https://github.com/ENDEREÇO-DO-REPOSITÓRIO-REMOTO.git`
+
+No terminal da IDE, navegar até a pasta do projeto com ``cd plataforma-videos``.
+
+No terminal da IDE, instalar o pacote de módulos do Node.js com ``npm install``.
 
 Iniciar o servidor de desenvolvimento com ``npm run dev``.
 
