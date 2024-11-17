@@ -1,10 +1,10 @@
 ![Banner](./plataforma-videos/assets/banner.png)
 
 # INTEGRANTES
-- **[Kaique Rodrigues Zaffarani](https://github.com/Z4ffarani)**
-- **[Guilherme Santos Nunes](https://github.com/sannunez)**
-- **[Rafael Menezes Viana](https://github.com/vianafs)**
-- **[Kairo da Silva Silvestre de Carvalho](https://github.com/KairoSilvestre)**
+- **Kaique Zaffarani**
+- **Guilherme Santos Nunes**
+- **Rafael Menezes Viana**
+- **Kairo da Silva Silvestre de Carvalho**
 
 <br>
 
