@@ -9,7 +9,7 @@
 <br>
 
 # PROJETO
-O projeto Plataforma-Vídeos é uma aplicação web desenvolvida para facilitar a criação e publicação de vídeos. Utilizando React e Styled-Components, o projeto inclui as páginas:
+O projeto Plataforma-Vídeos é uma aplicação web desenvolvida para facilitar a criação e publicação de vídeos. Utilizando React.js e styled-components, o projeto inclui as páginas:
 - **Home** | A página principal que introduz a plataforma e oferece um botão para começar a usar o serviço.
 - **Sobre** | Detalhes sobre a plataforma e os planos de assinatura disponíveis.
 - **Contato** | Formulário para dúvidas e suporte.
@@ -63,7 +63,7 @@ npm run dev
 # OBSERVAÇÕES
 - É necessária a instalação do Node.js para que o programa seja rodado.
 - Certifique-se de que o arquivo ``index.html`` está corretamente configurado para incluir os códigos de ``main.jsx``.
-- Os estilos são aplicados através de arquivos CSS e Styled-Components. Assegure-se de que todos os arquivos de estilo estão corretamente importados.
+- Os estilos são aplicados através de arquivos CSS e componentes estilizados do styled-components. Assegure-se de que todos os arquivos de estilização estão corretamente importados.
 - O roteamento é gerenciado pelo react-router-dom, então deve-se adicionar novas rotas no arquivo ``main.jsx`` se necessário.
 
 <br>
