@@ -1,10 +1,10 @@
 ![Banner](./plataforma-videos/assets/banner.png)
 
 # INTEGRANTES
-- **Kaique Zaffarani**
-- **Guilherme Santos Nunes**
-- **Rafael Menezes Viana**
-- **Kairo da Silva Silvestre de Carvalho**
+- **[Guilherme Santos Nunes](https://github.com/sannunez)**
+- **[Kairo da Silva Silvestre de Carvalho](https://github.com/KairoSilvestre)**
+- **[Kaique Zaffarani](https://github.com/Z4ffarani)**
+- **[Rafael Menezes Viana](https://github.com/vianafs)**
 
 <br>
 
@@ -43,28 +43,28 @@ npm run dev
 <br>
 
 # FUNÇÕES
-``Header.jsx``:
+`Header.jsx`:
 - Um componente estilizado que fornece navegação entre as páginas Home, Sobre e Contato.
 
-``Home.jsx``:
+`Home.jsx`:
 - Exibe uma introdução ao serviço e oferece opções de criação de vídeos com links para plataformas populares.
 
-``Sobre.jsx``:
+`Sobre.jsx`:
 - Apresenta informações sobre a plataforma e planos de assinatura com botões para cadastro ou contato.
 
-``Contato.jsx``:
+`Contato.jsx`:
 - Um formulário para os usuários entrarem em contato com a equipe de suporte. Inclui validação de comprimento da mensagem.
 
-``PageNotFound.jsx``:
+`PageNotFound.jsx`:
 - Mostra uma mensagem quando a página solicitada não é encontrada.
 
 <br>
 
 # OBSERVAÇÕES
 - É necessária a instalação do Node.js para que o programa seja rodado.
-- Certifique-se de que o arquivo ``index.html`` está corretamente configurado para incluir os códigos de ``main.jsx``.
+- Certifique-se de que o arquivo `index.html` está corretamente configurado para incluir os códigos de `main.jsx`.
 - Os estilos são aplicados através de arquivos CSS e componentes estilizados do styled-components. Assegure-se de que todos os arquivos de estilização estão corretamente importados.
-- O roteamento é gerenciado pelo react-router-dom, então deve-se adicionar novas rotas no arquivo ``main.jsx`` se necessário.
+- O roteamento é gerenciado pelo react-router-dom, então deve-se adicionar novas rotas no arquivo `main.jsx` se necessário.
 
 <br>
 
