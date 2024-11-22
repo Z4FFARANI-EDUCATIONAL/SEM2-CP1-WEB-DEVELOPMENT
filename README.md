@@ -9,7 +9,7 @@
 <br>
 
 # PROJETO
-O projeto Plataforma-Vídeos é uma aplicação web desenvolvida para facilitar a criação e publicação de vídeos. Utilizando React.js e styled-components, o projeto inclui as páginas:
+O projeto Plataforma-Vídeos é uma aplicação web fictícia, desenvolvida para facilitar a criação e publicação de vídeos. Utilizando React.js e styled-components, o projeto inclui as páginas:
 - **Home** | A página principal que introduz a plataforma e oferece um botão para começar a usar o serviço.
 - **Sobre** | Detalhes sobre a plataforma e os planos de assinatura disponíveis.
 - **Contato** | Formulário para dúvidas e suporte.
