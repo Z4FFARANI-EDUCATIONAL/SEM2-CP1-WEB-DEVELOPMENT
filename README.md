@@ -62,7 +62,7 @@ npm run dev
 
 # OBSERVAÇÕES
 - É necessária a instalação do Node.js para que o programa seja rodado.
-- Certifique-se de que o arquivo `index.html` está corretamente configurado para incluir os códigos de `main.jsx`.
+- Certificar de que o arquivo `index.html` está corretamente configurado para incluir os códigos de `main.jsx`.
 - Os estilos são aplicados através de arquivos CSS e componentes estilizados do styled-components. Assegure-se de que todos os arquivos de estilização estão corretamente importados.
 - O roteamento é gerenciado pelo react-router-dom, então deve-se adicionar novas rotas no arquivo `main.jsx` se necessário.
 
